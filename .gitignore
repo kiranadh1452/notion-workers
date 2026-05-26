@@ -5,6 +5,7 @@
 # Secrets & local config — never commit
 **/.env
 **/.env.*
+!**/.env.example
 **/workers.json
 **/workers.*.json
 **/.claude/settings.local.json
