@@ -13,14 +13,14 @@ Each subdirectory is a self-contained worker built from the `@notionhq/workers-t
 | Worker | What it does |
 | --- | --- |
 | [`worker-1-github-test/`](./worker-1-github-test) | GitHub integration worker (tool/sync experiments). |
-| [`worker-1-google-calendar-test/`](./worker-1-google-calendar-test) | Google Calendar → Notion sync with OAuth. |
+| [`worker-2-google-calendar-test/`](./worker-2-google-calendar-test) | Google Calendar → Notion sync with OAuth. |
 
 ## Getting started
 
 Each worker is independent. To work on one:
 
 ```bash
-cd worker-1-google-calendar-test   # or worker-1-github-test
+cd worker-2-google-calendar-test   # or worker-1-github-test
 npm install
 ```
 

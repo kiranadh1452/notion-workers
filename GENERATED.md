@@ -13,5 +13,5 @@ In other words: the structure and sync code here are the output of Notion's
 `/sync` Claude Code skill, not handwritten from scratch. Treat the generated code
 as a starting point and review it before relying on it in production.
 
-- Workers: [`worker-1-github-test/`](./worker-1-github-test), [`worker-1-google-calendar-test/`](./worker-1-google-calendar-test)
+- Workers: [`worker-1-github-test/`](./worker-1-github-test), [`worker-2-google-calendar-test/`](./worker-2-google-calendar-test)
 - Notion Workers (beta) docs: https://developers.notion.com
