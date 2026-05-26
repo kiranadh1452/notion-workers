@@ -5,6 +5,9 @@ programs hosted by Notion that add Tools, Syncs, or Webhooks to a Notion workspa
 
 Each subdirectory is a self-contained worker built from the `@notionhq/workers-template`.
 
+> **Note:** The code in this repo was generated with the `/sync` command — a Notion-provided
+> agent skill for the Claude Code CLI. See [GENERATED.md](./GENERATED.md) for details.
+
 ## Workers
 
 | Worker | What it does |
