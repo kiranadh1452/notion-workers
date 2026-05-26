@@ -1,0 +1,13 @@
+# Dependencies / build output
+**/node_modules/
+**/dist/
+
+# Secrets & local config — never commit
+**/.env
+**/.env.*
+**/workers.json
+**/workers.*.json
+**/.claude/settings.local.json
+
+# OS noise
+.DS_Store
